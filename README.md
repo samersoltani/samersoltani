@@ -52,7 +52,7 @@ Building modern backend applications with Django & Python.
 
 ## 📫 Contact
 
-📧 your-email@gmail.com
+📧 samersoltani82@gmail.com
 
 💼 Open to Freelance Work
 
