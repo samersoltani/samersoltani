@@ -48,7 +48,6 @@ Building modern backend applications with Django & Python.
 - Authentication API
 - Task Manager
 - REST API
-
 ---
 
 ## 📫 Contact
